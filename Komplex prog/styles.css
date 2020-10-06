@@ -1,0 +1,55 @@
+
+h1
+{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+table
+{
+    text-align: center;
+    border: 3px solid black;
+    background-color: aliceblue;
+    
+}
+a
+{
+    color: black;
+}
+a:hover
+{
+    color:red;
+}
+a:link
+{
+    text-decoration: none;
+}
+
+body
+{
+background-color: lightblue;
+
+}
+footer
+{
+    background-color: black;
+    color:white;
+    position: absolute;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    
+}
+.picker
+{
+    float:left;
+}
+#display
+{
+    width: 100%;
+    height: 100px;
+    background: black;
+    margin-top: 30px;
+    border: 1px solid #000;
+
+}
