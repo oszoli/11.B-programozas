@@ -1,4 +1,6 @@
 
+
+
 h1
 {
     text-align: center;
@@ -9,7 +11,9 @@ table
 {
     text-align: center;
     border: 3px solid black;
+    border-style:double;
     background-color: aliceblue;
+    
     
 }
 a
@@ -18,7 +22,8 @@ a
 }
 a:hover
 {
-    color:red;
+    color:purple;
+    
 }
 a:link
 {
@@ -42,8 +47,13 @@ footer
 }
 .picker
 {
-    float:left;
+    text-align: center;
+    color:white;
+    border: 3px solid black;
+    border-style:inset;
+    background-color:ghostwhite;
 }
+
 #display
 {
     width: 100%;
@@ -53,3 +63,13 @@ footer
     border: 1px solid #000;
 
 }
+
+.szoveg
+{
+    text-align: center;
+    border: 3px solid black;
+    border-style:inset;
+    background-color:ghostwhite;
+}
+
+

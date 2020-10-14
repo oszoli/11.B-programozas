@@ -8,3 +8,5 @@ input[i].addEventListener("input", function(){
     display.style.background = "rgb(" + red + ", " + green + ", " + blue + ")";
 });
 }
+
+
